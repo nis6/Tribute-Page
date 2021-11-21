@@ -218,7 +218,7 @@ footer .citations{
 }
 
 
-@media (max-width:800px){
+@media (max-width:600px){
 
     .section-a img{
         width: 100%;   /*just added in media not changed??*/
