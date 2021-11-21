@@ -232,6 +232,7 @@ footer .citations{
     flex-direction: column;
     justify-content: space-around;
     padding: 20px 10px;
+    padding-right: 20px;
     border: none;
 }
 
